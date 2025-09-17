@@ -24,6 +24,7 @@ export default tseslint.config([
       '@typescript-eslint/semi': 'off',
       semi: 'off',
       quotes: ['error', 'single'], // Enforce single quotes
+      'eol-last': ['error', 'always'], // Require newline at end of file
     },
   },
 ])

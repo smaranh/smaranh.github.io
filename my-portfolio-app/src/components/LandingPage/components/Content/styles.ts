@@ -16,13 +16,13 @@ export const ContentContainer = styled.div`
 export const ContentText = styled.p`
   margin-bottom: 16px;
   line-height: 1.6;
-  color: #252B2D;
+  color: #252b2d;
 `
 
 export const NameText = styled.h1`
   font-weight: bold;
   margin-left: 24px;
-  color: #252B2D;
+  color: #252b2d;
 `
 export const ProfileContainer = styled.div`
   display: flex;

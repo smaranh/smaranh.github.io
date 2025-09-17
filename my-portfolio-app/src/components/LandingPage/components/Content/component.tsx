@@ -1,5 +1,11 @@
 import React from 'react'
-import { ProfileImage, ContentContainer, ContentText, NameText, ProfileContainer } from './styles'
+import {
+  ProfileImage,
+  ContentContainer,
+  ContentText,
+  NameText,
+  ProfileContainer,
+} from './styles'
 
 export const Content: React.FC = () => {
   return (
@@ -17,9 +23,9 @@ export const Content: React.FC = () => {
           impact—one line of code at a time.
         </ContentText>
         <ContentText>
-          As an immigrant to the U.S., I understand
-          the importance of embracing challenges head-on, and I apply this
-          mindset to building elegant, user-centered digital solutions.
+          As an immigrant to the U.S., I understand the importance of embracing
+          challenges head-on, and I apply this mindset to building elegant,
+          user-centered digital solutions.
         </ContentText>
         <ContentText>
           Let’s connect if you’re interested in software development that is
